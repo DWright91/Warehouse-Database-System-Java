@@ -39,7 +39,7 @@ orders must be filled first, before amount in stock is updated.
 
 9. Queries to be processed. The following queries must be handled:
     
-   List all transactions for a specified client.
-   List all clients who have an outstanding balance.
-   List all products, quantity in stock, and total quantity of outstanding(waitlisted) orders.
-   Any other additonal queries.
+  • List all transactions for a specified client.
+  • List all clients who have an outstanding balance.
+  • List all products, quantity in stock, and total quantity of outstanding(waitlisted) orders.
+  • Any other additonal queries.
