@@ -38,7 +38,8 @@ words, placing and processing the orders is independent of the payment process.
 orders must be filled first, before amount in stock is updated.
 
 9. Queries to be processed. The following queries must be handled:    
-      • List all transactions for a specified client.
+    • List all transactions for a specified client.
+    • List all clients who have an outstanding balance.
       • List all clients who have an outstanding balance.
    
       • List all products, quantity in stock, and total quantity of outstanding(waitlisted) orders.
